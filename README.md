@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Ishika Sahu
 A passinate Software Engineer from India
 
-<!--
 **tanisvxv/tanisvxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she..
 - ⚡ Fun fact: I am witty 
 - Skills : Java,Python,SQL,HTML,CSS,Javascript,React,vue
--->
+
